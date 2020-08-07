@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const { platform } = require('os');
 
 module.exports = {
